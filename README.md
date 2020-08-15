@@ -22,8 +22,7 @@
 
 #### > Run : `python2 haxor.py`
 
-#### USERNAME : haxorbd
-#### PASSWORD : htrtech
+#### USERNAME & PASSWORD : [Send Message Here](https://fb.com/tahmid.rayat.official)
 
 ## Single Command :
 ```
