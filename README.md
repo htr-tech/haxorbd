@@ -29,7 +29,7 @@
 apt update ; apt install git python python2 -y ; git clone https://github.com/htr-tech/haxorbd.git ; cd haxorbd ; python2 haxor.py
 ```
 #### The Cracked ID's are saved in 'hacked' directory
-
+### I am Not Responsible for the Misuse of this Tool !!
 <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/haxorbd2.png"/>
